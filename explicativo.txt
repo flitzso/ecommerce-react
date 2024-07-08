@@ -1,0 +1,50 @@
+Projeto:
+
+Area administrativa: 
+Produto:
+Adcionar produto
+Deletar produto
+Alterar produto
+
+{
+    nomeProduto
+    preco
+    avatar
+}
+
+Usuario:
+Adcionar Usuario
+Alterar Usuario
+Deletar Usuario
+
+{
+    nome
+    sobrenome
+    cpf
+    email
+    telefone
+    endereço
+}
+
+Area cliente:
+Home:
+Todos os components
+
+NavBar:
+Login
+register
+Minha conta
+logo
+Search Produtos:
+Apenas buscas
+
+Produtos:
+produtos apenas
+
+carrinhoCompra:
+fechar compra 
+continuar comprando
+excluir produto do carrinho
+
+
+Footer
